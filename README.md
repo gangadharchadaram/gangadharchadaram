@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gangadharchadaram
 - 👀 I’m interested in web designing
-- 🌱 I’m currently learning web applications
+- 🌱 I’m currently doing projects web applications
 - 💞️ I’m looking to collaborate on developer jobs
 - 📫 How to reach me gangadharchadaram/README.md
 
